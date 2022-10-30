@@ -58,9 +58,6 @@ class Concerte{
     int an;
     int durata;
     int pret;
-    //Formatii formatie_1;
-    //Muzicanti muzicant_1;
-    //Instrumente instrument_1;
 
 public:
     Concerte(int an_, int durata_, int pret_,
